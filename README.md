@@ -86,17 +86,6 @@ The second model (5-layer dense neural network) outperformed the baseline, achie
 
 These results suggest the model can effectively identify bookings at high risk of cancellation.
 
-### Final Evaluation Graphs  
-
-![ROC Curve](images/roc_curve.png)  
-*Receiver Operating Characteristic (ROC) curve with AUC of 0.9352*  
-
-![Calibration Curve](images/calibration_curve.png)  
-*Calibration plot showing well-aligned predicted probabilities*  
-
-![Loss Curves](images/loss_curves.png)  
-*Training vs. validation loss over 100 epochs*
-
 ---
 
 ## Tools Used  
