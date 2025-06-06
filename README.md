@@ -23,7 +23,7 @@ In a recruiting context, similar modeling can help forecast offer acceptance, ca
 - Housekeeping
 - Head of Data Science (project lead and analyst)  
 
-Model outputs include probability scores that can trigger targeted interventions—whether that’s preventing a cancellation or re-engaging a client.
+Model outputs include probability scores that can trigger targeted interventions.
 
 ---
 
