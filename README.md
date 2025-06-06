@@ -91,7 +91,4 @@ Install dependencies:
 ```bash  
 pip install -r requirements.txt
 
-git clone https://github.com/gsamuel24/HotelBookingCancellation-predictor.git
-cd HotelBookingCancellation-predictor
-python main.py
 
