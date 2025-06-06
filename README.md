@@ -13,7 +13,7 @@ Can we predict hotel booking cancellations using customer and booking characteri
 ### Context  
 Hotel booking cancellations negatively impact revenue forecasting and resource allocation. This project uses deep learning to identify bookings with a high risk of cancellation. While the dataset is from a simulated hotel environment, it serves as a stand-in for confidential work performed at Crossover Search Partners.
 
-In a recruiting context, similar modeling can help forecast offer acceptance, candidate drop-off, or client engagement—empowering firms to proactively manage relationships and mitigate risk.
+In a recruiting context, similar modeling can help forecast offer acceptance, candidate drop-off, or client engagement - empowering firms to proactively manage relationships and mitigate risk.
 
 ---
 
@@ -89,4 +89,9 @@ Simulated dataset with 35,000+ bookings, including variables such as:
 ### Setup  
 Install dependencies:  
 ```bash  
-pip install -r requirements.txt  
+pip install -r requirements.txt
+
+git clone https://github.com/gsamuel24/HotelBookingCancellation-predictor.git
+cd HotelBookingCancellation-predictor
+python main.py
+
